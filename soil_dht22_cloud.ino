@@ -18,9 +18,9 @@
 #define ADC_MAX  4095
 
 // ---- FILL THESE IN ----
-const char* WIFI_SSID = "YOUR_WIFI_NAME";        // 2.4 GHz network only
-const char* WIFI_PASS = "YOUR_WIFI_PASSWORD";
-const char* API_KEY   = "PERSON6_WRITE_API_KEY"; // ThingSpeak > Channel > API Keys
+const char* WIFI_SSID = "use your wifi ssid";        // 2.4 GHz network only
+const char* WIFI_PASS = "connect using your password preferably a 2.4 GHz";
+const char* API_KEY   = "thingspeak_WRITE_API_KEY"; // ThingSpeak > Channel > API Keys
 // -----------------------
 
 // DRY_VALUE = raw reading in dry air, WET_VALUE = raw reading in water.
